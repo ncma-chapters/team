@@ -10,12 +10,6 @@ assignees: kelsonic
 **Description**
 [Please summarize the changes requested and provide and business context related to these changes.]
 
-**Current State**
-[Please describe the content or page as it is]
-
-**Desired State**
-[Please describe the desired content]
-
 **Page Url(s)**
 [Please provide the related URL(s), if applicable]
 
